@@ -1,0 +1,1 @@
+A web app which acts as active directory of the pine city zoo, an exercise showing capabilities of JavaScript,HTML and CSS. It is a navigation tool which has a map of the zoo, the different menu tabs of different features.
